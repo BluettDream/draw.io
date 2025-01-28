@@ -1,42 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2024-03-09T14:05:20.541Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="uotVC2WV4FzCqw-vfcPz" version="24.0.4" type="github">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 Edg/132.0.0.0" version="26.0.9">
   <diagram name="Page-1" id="VGtMLJroqVfBJHBuWMG0">
-    <mxGraphModel dx="1668" dy="846" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1213" dy="734" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="A1PlckHrYoVJgMIoTg-i-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="A1PlckHrYoVJgMIoTg-i-4" target="A1PlckHrYoVJgMIoTg-i-6">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="A1PlckHrYoVJgMIoTg-i-4" value="controller" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-490" y="41" width="112" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="A1PlckHrYoVJgMIoTg-i-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="A1PlckHrYoVJgMIoTg-i-5" target="A1PlckHrYoVJgMIoTg-i-4">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="A1PlckHrYoVJgMIoTg-i-5" value="fxml" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-494" y="-56" width="120" height="51" as="geometry" />
-        </mxCell>
-        <mxCell id="A1PlckHrYoVJgMIoTg-i-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="A1PlckHrYoVJgMIoTg-i-6" target="A1PlckHrYoVJgMIoTg-i-7">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="A1PlckHrYoVJgMIoTg-i-6" value="VO" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-307" y="36" width="105" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="A1PlckHrYoVJgMIoTg-i-7" value="pojo" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-135" y="36" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="A1PlckHrYoVJgMIoTg-i-8" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-572" y="-86" as="sourcePoint" />
-            <mxPoint x="-22" y="-88" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="A1PlckHrYoVJgMIoTg-i-9" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="A1PlckHrYoVJgMIoTg-i-5">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-394" y="-86" as="sourcePoint" />
-            <mxPoint x="-344" y="-136" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
