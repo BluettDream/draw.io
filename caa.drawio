@@ -4,14 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="2" value="start" style="shape=mxgraph.flowchart.terminator;strokeWidth=2;gradientDirection=north;fontStyle=0;html=1;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" parent="1" vertex="1">
-          <mxGeometry x="260" y="60" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="7" style="fontStyle=1;strokeColor=#457B9D;strokeWidth=1;html=1;labelBackgroundColor=none;fontColor=default;" parent="1" source="2" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="320.0000000000002" y="130" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
